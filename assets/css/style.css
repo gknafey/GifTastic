@@ -9,3 +9,8 @@ body {
 .space {
     padding: 10px 0px 0px 0px;
 }
+
+span {
+    float: left;
+    padding: 20px 20px 20px 20px;
+}
